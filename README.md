@@ -1,5 +1,5 @@
 # Universal Music Player
-
+# Requires Node.js and NPM to use.
 
 ### Getting Started
 
