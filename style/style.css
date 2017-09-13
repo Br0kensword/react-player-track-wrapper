@@ -1,0 +1,41 @@
+body{
+	background: url('../img/lotr.png');
+	background-position: center;
+}
+
+.list-group-item{
+	background-color: transparent !important;
+}
+
+.out-btn{
+	background-color: transparent;
+	outline: white;
+	color: white;
+}
+
+.out-int{
+	background-color: transparent;
+	outline: white;
+	color: white;
+}
+
+#app{
+	color: white !important;
+	font-weight: bold;
+	
+}
+
+#volume{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#genreDetail{
+	float:left;
+	width: 10em;
+	margin-right: 17em;
+}
+
+#genreChange{
+	margin-top: 1em;
+}
